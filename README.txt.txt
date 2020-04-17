@@ -1,0 +1,10 @@
+文件说明：
+data文件夹：
+	1）训练语料.xlsx是训练语料
+	2）测试预料.xlsx是测试语料
+code文件夹：
+	1）traning_model.py是训练模型代码文件
+	2）viterbi_search.py是生成音译代码文件
+	3）evaluate.py是改进后的评判规则对应的代码文件
+result文件夹：
+	1)音译结果.xlsx是最后得到的音译结果
